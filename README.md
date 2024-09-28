@@ -34,10 +34,14 @@ This project is a **Disney+ Hotstar clone** created using only **HTML, CSS, and 
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](link-to-your-screenshot)
+![Screenshot 2024-09-28 090653](https://github.com/user-attachments/assets/6a734a81-85b4-437e-9aee-6a79d1c808e1)
+
+
 
 ### Movie Details Section
-![Movie Details](link-to-your-screenshot)
+
+
+![Screenshot 2024-09-28 090732](https://github.com/user-attachments/assets/d85e2a67-18dd-4796-9d93-9d4715c2fd5d)
 
 ## 🤝 Contributing
 
@@ -55,6 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Contact
 
+- **Email**: [mail me here](rookieedev@gmail.com)
 - **GitHub**: [duh.itsayu](https://github.com/duhitsayu)
 
 ---
